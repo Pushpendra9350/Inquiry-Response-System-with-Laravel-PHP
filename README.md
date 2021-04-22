@@ -1,3 +1,24 @@
+# Inquiry Response System with Laravel PHP
+## DEMO VIDEO: https://www.youtube.com/watch?v=kW4zzw2EJbE
+
+## Features and functionlity
+* It has 2 Gateways one for admin and one for User
+* New user can register and raise a query
+* After raise a query by a user Admin can reply on that perticular query 
+* After reply of the admin user can see that query and can delete that query but not replies
+* And admin can also delete there replies but not query
+
+## Techonology Used 
+* PHP 
+* Laravel framework 
+* MYSql
+
+## Tools
+* Editor: VScode
+* Chrome Browser
+* XAMPP
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
